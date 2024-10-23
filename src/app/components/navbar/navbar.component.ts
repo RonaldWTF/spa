@@ -8,8 +8,7 @@ import { Router } from '@angular/router';
 })
 export class NavbarComponent { 
 
-  constructor(private router:Router){
-  }
+  constructor(private router:Router){}
 
 /**
  * Método para enviar una búsqueda de héroes.
